@@ -1,0 +1,548 @@
+{
+  "Data Scientist": {
+    "skills": [
+      "Python",
+      "R",
+      "SQL",
+      "Pandas",
+      "NumPy",
+      "scikit-learn",
+      "statistics",
+      "machine learning",
+      "data visualization",
+      "deep learning"
+    ],
+    "tools": [
+      "Jupyter Notebook",
+      "Tableau",
+      "Power BI"
+    ],
+    "certifications": [
+      "Google Data Analytics Certificate",
+      "AWS Certified Data Analytics"
+    ]
+  },
+  "Backend Developer": {
+    "skills": [
+      "Python",
+      "Django",
+      "Flask",
+      "Java",
+      "Spring Boot",
+      "REST API",
+      "SQL",
+      "MySQL",
+      "PostgreSQL",
+      "Docker",
+      "Git"
+    ],
+    "tools": [
+      "Postman",
+      "Docker",
+      "Git"
+    ],
+    "certifications": [
+      "AWS Certified Developer Associate"
+    ]
+  },
+  "Frontend Developer": {
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Vue.js",
+      "TypeScript",
+      "Redux",
+      "Webpack",
+      "responsive design",
+      "UI/UX principles"
+    ],
+    "tools": [
+      "Figma",
+      "npm",
+      "Webpack"
+    ],
+    "certifications": [
+      "Meta Front-End Developer Certificate"
+    ]
+  },
+  "Network Engineer": {
+    "skills": [
+      "Cisco IOS",
+      "routing",
+      "switching",
+      "OSPF",
+      "BGP",
+      "VLAN",
+      "TCP/IP",
+      "firewall configuration",
+      "WAN design",
+      "network troubleshooting"
+    ],
+    "tools": [
+      "Cisco Packet Tracer",
+      "Wireshark"
+    ],
+    "certifications": [
+      "CCNA",
+      "CCNP"
+    ]
+  },
+  "Cybersecurity Analyst": {
+    "skills": [
+      "SIEM",
+      "incident response",
+      "penetration testing",
+      "vulnerability assessment",
+      "firewall management",
+      "IDS/IPS",
+      "malware analysis",
+      "threat intelligence",
+      "NIST framework"
+    ],
+    "tools": [
+      "Splunk",
+      "Wireshark",
+      "Metasploit"
+    ],
+    "certifications": [
+      "CompTIA Security+",
+      "Certified Ethical Hacker (CEH)"
+    ]
+  },
+  "Software Engineer": {
+    "skills": [
+      "Java",
+      "C++",
+      "Python",
+      "data structures",
+      "algorithms",
+      "Git",
+      "Agile methodology",
+      "unit testing",
+      "object-oriented design",
+      "system design"
+    ],
+    "tools": [
+      "Git",
+      "Jira"
+    ],
+    "certifications": [
+      "Oracle Certified Professional Java Programmer"
+    ]
+  },
+  "Database Administrator": {
+    "skills": [
+      "SQL",
+      "MySQL",
+      "PostgreSQL",
+      "Oracle Database",
+      "database design",
+      "indexing",
+      "backup and recovery",
+      "performance tuning",
+      "ETL processes",
+      "NoSQL"
+    ],
+    "tools": [
+      "SQL Server Management Studio"
+    ],
+    "certifications": [
+      "Oracle Certified Professional DBA"
+    ]
+  },
+  "Machine Learning Engineer": {
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "scikit-learn",
+      "deep learning",
+      "NLP",
+      "computer vision",
+      "MLOps",
+      "model deployment",
+      "Docker"
+    ],
+    "tools": [
+      "MLflow",
+      "Kubernetes"
+    ],
+    "certifications": [
+      "TensorFlow Developer Certificate"
+    ]
+  },
+  "DevOps Engineer": {
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Jenkins",
+      "Terraform",
+      "AWS",
+      "Ansible",
+      "Linux administration",
+      "Git",
+      "monitoring and logging"
+    ],
+    "tools": [
+      "Jenkins",
+      "Terraform"
+    ],
+    "certifications": [
+      "AWS Certified DevOps Engineer"
+    ]
+  },
+  "Mobile App Developer": {
+    "skills": [
+      "Kotlin",
+      "Swift",
+      "Android SDK",
+      "iOS development",
+      "Flutter",
+      "React Native",
+      "Firebase",
+      "REST API integration",
+      "UI design",
+      "Git"
+    ],
+    "tools": [
+      "Android Studio",
+      "Xcode"
+    ],
+    "certifications": [
+      "Google Associate Android Developer"
+    ]
+  },
+  "Accountant": {
+    "skills": [
+      "accounting principles",
+      "bookkeeping",
+      "tax preparation",
+      "financial reporting",
+      "accounts payable",
+      "accounts receivable",
+      "budgeting",
+      "Excel",
+      "QuickBooks",
+      "GAAP"
+    ],
+    "tools": [
+      "QuickBooks",
+      "Excel",
+      "Tally"
+    ],
+    "certifications": [
+      "Certified Public Accountant (CPA)",
+      "ACCA"
+    ]
+  },
+  "Marketing Specialist": {
+    "skills": [
+      "digital marketing",
+      "SEO",
+      "SEM",
+      "content marketing",
+      "social media marketing",
+      "Google Analytics",
+      "email marketing",
+      "brand strategy",
+      "market research",
+      "copywriting"
+    ],
+    "tools": [
+      "Google Analytics",
+      "HubSpot",
+      "Canva"
+    ],
+    "certifications": [
+      "Google Ads Certification",
+      "HubSpot Content Marketing"
+    ]
+  },
+  "HR Manager": {
+    "skills": [
+      "recruitment",
+      "employee relations",
+      "performance management",
+      "HR policies",
+      "onboarding",
+      "payroll processing",
+      "labor law compliance",
+      "conflict resolution",
+      "talent acquisition",
+      "HRIS systems"
+    ],
+    "tools": [
+      "Workday",
+      "BambooHR"
+    ],
+    "certifications": [
+      "SHRM-CP",
+      "PHR"
+    ]
+  },
+  "Sales Executive": {
+    "skills": [
+      "lead generation",
+      "CRM management",
+      "negotiation",
+      "client relationship management",
+      "sales forecasting",
+      "cold calling",
+      "account management",
+      "B2B sales",
+      "closing deals",
+      "pipeline management"
+    ],
+    "tools": [
+      "Salesforce",
+      "HubSpot CRM"
+    ],
+    "certifications": [
+      "Certified Sales Professional (CSP)"
+    ]
+  },
+  "Mechanical Engineer": {
+    "skills": [
+      "AutoCAD",
+      "SolidWorks",
+      "mechanical design",
+      "thermodynamics",
+      "CAD modeling",
+      "manufacturing processes",
+      "finite element analysis",
+      "project management",
+      "quality control",
+      "materials science"
+    ],
+    "tools": [
+      "SolidWorks",
+      "AutoCAD",
+      "MATLAB"
+    ],
+    "certifications": [
+      "Certified SolidWorks Professional (CSWP)"
+    ]
+  },
+  "Civil Engineer": {
+    "skills": [
+      "AutoCAD",
+      "structural analysis",
+      "construction management",
+      "site surveying",
+      "building codes",
+      "project scheduling",
+      "concrete design",
+      "Revit",
+      "cost estimation",
+      "geotechnical engineering"
+    ],
+    "tools": [
+      "AutoCAD",
+      "Revit",
+      "MS Project"
+    ],
+    "certifications": [
+      "Professional Engineer (PE) License"
+    ]
+  },
+  "Electrical Engineer": {
+    "skills": [
+      "circuit design",
+      "PCB design",
+      "power systems",
+      "MATLAB",
+      "embedded systems",
+      "electrical schematics",
+      "AutoCAD Electrical",
+      "control systems",
+      "signal processing",
+      "electrical testing"
+    ],
+    "tools": [
+      "MATLAB",
+      "AutoCAD Electrical",
+      "Multisim"
+    ],
+    "certifications": [
+      "Professional Engineer (PE) License"
+    ]
+  },
+  "Graphic Designer": {
+    "skills": [
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "typography",
+      "branding",
+      "layout design",
+      "Adobe InDesign",
+      "color theory",
+      "logo design",
+      "print design",
+      "digital illustration"
+    ],
+    "tools": [
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "Adobe InDesign"
+    ],
+    "certifications": [
+      "Adobe Certified Professional"
+    ]
+  },
+  "Content Writer": {
+    "skills": [
+      "content writing",
+      "copywriting",
+      "SEO writing",
+      "editing",
+      "proofreading",
+      "blog writing",
+      "content strategy",
+      "WordPress",
+      "AP style",
+      "research skills"
+    ],
+    "tools": [
+      "WordPress",
+      "Grammarly",
+      "Google Docs"
+    ],
+    "certifications": [
+      "HubSpot Content Marketing Certification"
+    ]
+  },
+  "Business Analyst": {
+    "skills": [
+      "requirements gathering",
+      "business process modeling",
+      "SQL",
+      "data analysis",
+      "stakeholder management",
+      "Excel",
+      "process improvement",
+      "UML diagrams",
+      "gap analysis",
+      "Agile methodology"
+    ],
+    "tools": [
+      "Excel",
+      "Jira",
+      "Tableau"
+    ],
+    "certifications": [
+      "Certified Business Analysis Professional (CBAP)"
+    ]
+  },
+  "Product Manager": {
+    "skills": [
+      "product strategy",
+      "roadmap planning",
+      "user research",
+      "Agile/Scrum",
+      "stakeholder management",
+      "market analysis",
+      "A/B testing",
+      "product analytics",
+      "wireframing",
+      "cross-functional leadership"
+    ],
+    "tools": [
+      "Jira",
+      "Figma",
+      "Google Analytics"
+    ],
+    "certifications": [
+      "Certified Scrum Product Owner (CSPO)"
+    ]
+  },
+  "QA/Test Engineer": {
+    "skills": [
+      "manual testing",
+      "automated testing",
+      "Selenium",
+      "test case design",
+      "bug tracking",
+      "regression testing",
+      "API testing",
+      "JIRA",
+      "test plans",
+      "quality assurance processes"
+    ],
+    "tools": [
+      "Selenium",
+      "JIRA",
+      "Postman"
+    ],
+    "certifications": [
+      "ISTQB Certified Tester"
+    ]
+  },
+  "UI/UX Designer": {
+    "skills": [
+      "user research",
+      "wireframing",
+      "prototyping",
+      "Figma",
+      "interaction design",
+      "usability testing",
+      "information architecture",
+      "design systems",
+      "Adobe XD",
+      "user personas"
+    ],
+    "tools": [
+      "Figma",
+      "Adobe XD",
+      "Sketch"
+    ],
+    "certifications": [
+      "Google UX Design Certificate"
+    ]
+  },
+  "Financial Analyst": {
+    "skills": [
+      "financial modeling",
+      "forecasting",
+      "Excel",
+      "valuation",
+      "budgeting",
+      "variance analysis",
+      "financial statements analysis",
+      "Power BI",
+      "investment analysis",
+      "risk assessment"
+    ],
+    "tools": [
+      "Excel",
+      "Power BI",
+      "Bloomberg Terminal"
+    ],
+    "certifications": [
+      "Chartered Financial Analyst (CFA)"
+    ]
+  },
+  "Customer Support Specialist": {
+    "skills": [
+      "customer service",
+      "ticketing systems",
+      "troubleshooting",
+      "communication skills",
+      "CRM software",
+      "conflict resolution",
+      "live chat support",
+      "product knowledge",
+      "escalation handling",
+      "customer satisfaction metrics"
+    ],
+    "tools": [
+      "Zendesk",
+      "Salesforce Service Cloud"
+    ],
+    "certifications": [
+      "HDI Customer Service Representative"
+    ]
+  }
+}
